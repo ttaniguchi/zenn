@@ -1,0 +1,29 @@
+{
+  "title": "Notionを使いこなす",
+  "closed": false,
+  "archived": false,
+  "created_at": "2023-06-16",
+  "comments": [
+    {
+      "author": "ttaniguchi",
+      "created_at": "2023-06-16",
+      "body_markdown": "共通ドキュメンターとしてNotionを社内に導入しました。\n自身も利用を始めて3ヶ月程度ですが、ツールの魅力や有益な使い方を発掘して、周囲にも普及させていきたいと思っています。\n\nこちらには初学者向けのアドバイスや便利な使い方などをまとめていきます。"
+    },
+    {
+      "author": "ttaniguchi",
+      "created_at": "2023-06-16",
+      "body_markdown": "Notionを「レゴブロック」に例えた説明が秀逸。\nチュートリアルとして初心者に薦めてみよう。\nhttps://www.youtube.com/watch?v=pOp9_LiR2F4&t=101s"
+    },
+    {
+      "author": "ttaniguchi",
+      "created_at": "2023-06-16",
+      "body_markdown": "### オススメの使い方\n\nPCとスマホの共用ブックマークにする。\n\nスマホ版Notionを入れておくと、共有からNotionのWeb Clipperが利用できる。\nhttps://www.notion.so/energy-cloud/Notion-Chrome-d8bdb65945c844d2b8c7a32b6cbc6641\n"
+    },
+    {
+      "author": "ttaniguchi",
+      "created_at": "2023-06-16",
+      "body_markdown": "### オススメの使い方\n\n日記を書く。\n\ndatabaseを使うことができ、利用の習慣ができるとナレッジがあがる。\nhttps://www.youtube.com/watch?v=TW3w55cTJtM&t=102s\n",
+      "body_updated_at": "2023-06-16"
+    }
+  ]
+}
